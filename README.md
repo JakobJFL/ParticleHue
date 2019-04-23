@@ -19,3 +19,5 @@ Now you should be able to control your Philips Hue lights. You can add buttons o
 
 ## Further expansion and understanding
 There's though a lot more to explain and a lot more to do with the Philips Hue API. 
+
+
