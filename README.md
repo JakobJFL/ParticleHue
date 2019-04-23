@@ -5,7 +5,7 @@ This repository shows you how you can control your Philips Hue lights with a Par
 
 
 ## Getting started
-*A small starter guide, to quickly get started on controlling Philips Hue lights.*
+*A small starter guide, to **quickly** get started on controlling Philips Hue lights.*
 ### Step 1 - Philips Hues API
 First you need a developer ID for Philips Hues API. Follow [this](https://developers.meethue.com/develop/get-started-2/) guide if you already have worked with Philips Hues API you can skip this step.
 
