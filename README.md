@@ -9,7 +9,7 @@ This repository shows you how you can control your Philips Hue lights with a Par
 ### Step 1 - Philips Hues API
 First you need a developer ID for Philips Hues API. Follow [this](https://developers.meethue.com/develop/get-started-2/) guide if you already have worked with Philips Hues API you can skip this step.
 
-After this you **can** use CLIP API Debugger or something like [Postman](https://chrome.google.com/webstore/detail/postman/djdcfiocijfjponepmbbdmbeblofhfff?utm_source=chrome-ntp-icon) to test if you can control your Philips Hue lights through Philips Hues API. 
+After this you **can** use CLIP API Debugger or something like [Postman](https://www.getpostman.com/) to test if you can control your Philips Hue lights through Philips Hues API. 
 
 ### Step 2 - The code
 Now it's time to upload the code to your Particle Photon. 
